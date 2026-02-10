@@ -1,0 +1,5 @@
+"""HolyC Config"""
+HOLYC_EXTENSIONS=[".HC",".HH",".Z"]
+MEMORY_MODEL="flat"
+RING_LEVEL=0
+SAFE_MODE=True
